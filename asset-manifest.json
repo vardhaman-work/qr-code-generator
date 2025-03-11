@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/qr-code-generator/static/css/main.048f5f3b.css",
+    "main.js": "/qr-code-generator/static/js/main.a9543ae0.js",
+    "static/js/453.272779ce.chunk.js": "/qr-code-generator/static/js/453.272779ce.chunk.js",
+    "static/media/ec-q.webp": "/qr-code-generator/static/media/ec-q.3f3c37ed63b3d2970cfa.webp",
+    "index.html": "/qr-code-generator/index.html",
+    "static/media/ec-m.webp": "/qr-code-generator/static/media/ec-m.36d59391dd545efd9c33.webp",
+    "static/media/ec-h.webp": "/qr-code-generator/static/media/ec-h.bb945a69fa250b775e60.webp",
+    "static/media/ec-l.webp": "/qr-code-generator/static/media/ec-l.dc7158ce1ee3f91555bf.webp",
+    "main.048f5f3b.css.map": "/qr-code-generator/static/css/main.048f5f3b.css.map",
+    "main.a9543ae0.js.map": "/qr-code-generator/static/js/main.a9543ae0.js.map",
+    "453.272779ce.chunk.js.map": "/qr-code-generator/static/js/453.272779ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048f5f3b.css",
+    "static/js/main.a9543ae0.js"
+  ]
+}
